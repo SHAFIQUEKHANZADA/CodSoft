@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(233, 233, 186);
+    margin: 20%;
+    margin-top: 0%;
+}
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 8vh;
+}
+.center{
+    width: 600px;
+    margin-right: 50px;
+    margin-bottom: 0;
+    padding-left: 90px;
+}
+#img {
+   
+    margin-right: 80%;
+    width: 10%;
+}
+#data {
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px rgb(255, 208, 208);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px 20px;
+    margin: 11px;
+    margin-top: 50px;
+}
+h1.title-a{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 20px black;
+}
